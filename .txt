@@ -1,0 +1,18 @@
+books-api/
+├── src/
+│   ├── controllers/
+│   │   └── bookController.ts
+│   ├── models/
+│   │   └── book.ts
+│   ├── routes/
+│   │   └── bookRoutes.ts
+│   ├── middlewares/
+│   │   └── upload.ts
+│   ├── utils/
+│   │   └── db.ts
+│   └── app.ts
+├── .env
+├── .gitignore
+├── package.json
+├── README.md
+└── tsconfig.json
